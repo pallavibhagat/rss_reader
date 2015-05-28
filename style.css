@@ -1,0 +1,28 @@
+.title {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 24.5px;
+    line-height: 40px;
+    margin: 10px 0px;
+}
+.markRead {
+    margin-left: 5px;
+    font-size: 11px;
+    cursor: pointer;
+}
+.read-true, .read-true a {
+    color: #CCC;
+}
+#rssFeed {
+    width: 720px;
+}
+.margin-top {
+    margin-top: 25px;
+}
+.margin-bottom {
+    margin-bottom: 15px;
+}
+body.dark {
+    background-color: #222;
+    color: #EEE;
+}
